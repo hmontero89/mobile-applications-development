@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">h-m\'s first app</string>
+    <string name="hello">Sup, World? This is MainActivity</string>
+    <string name="greeting">How\'s it going?</string>
+    <string name="other">Another Activity</string>
+    <string name="otherParams">Another Activity (Returns parameters)</string>
+    <string name="addNumbers">Add Numbers Activity</string>
+    <string name="quit">Quit</string>
+    <string name="firstNumber">First number to add</string>
+    <string name="secondNumber">Second number to add</string>
+    <string name="add">Add numbers</string>
+    <string name="launchLogger">Logger Activity</string>
+    <string name="launchMenu">Menu Activity!</string>
+    <string name="launchActivityOne">Activity One</string>
+    <string name="launchActivityTwo">Activity Two</string>
+</resources>

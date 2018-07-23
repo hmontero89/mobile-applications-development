@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <tag
+        android:id="@+id/firstNumberTag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:value="@string/firstNumber" />
+    <TextView
+        android:id="@+id/firstNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" "/>
+    <tag
+        android:id="@+id/secondNumberTag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:value="@string/secondNumber" />
+    <TextView
+        android:id="@+id/secondNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" "/>
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add" />
+
+</LinearLayout>
